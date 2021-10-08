@@ -202,7 +202,7 @@ body.cv a:hover {
 }
 .cv-h1 {
   margin: 10px 0;
-  font-size: 28px;
+  font-size: 26px;
   color: #010000;
   text-align: center;
 }
@@ -510,7 +510,7 @@ body.cv a:hover {
     font-size: 24px;
   }
   .cv-h1 {
-    font-size: 32px;
+    font-size: 30px;
   }
 }
 @media (min-width: 1200px) {
@@ -519,7 +519,7 @@ body.cv a:hover {
     max-width: 1140px;
   }
   .cv-h1 {
-    font-size: 38px;
+    font-size: 34px;
   }
 }
 @media (min-width: 1400px) {
@@ -528,6 +528,6 @@ body.cv a:hover {
     max-width: 1320px;
   }
   .cv-h1 {
-    font-size: 46px;
+    font-size: 42px;
   }
 }
